@@ -6,7 +6,7 @@ const Card = (props) => {
 
    
 
-    <div className=" col-md-3 col-auto">
+    <div className=" hi col-md-3 col-auto">
     <div class="card p-3" style={{ width: "18.5rem" }}>
 
       <img src={props.cart1} className="mx-auto" alt="..."/>
