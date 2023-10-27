@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+font-family: 'Josefin Sans', sans-serif;
+/* font-family: 'Mukta', sans-serif;
+font-family: 'Tilt Neon', sans-serif;
+font-family: 'Work Sans', sans-serif;
+font-family: 'Yellowtail', cursive; */
+}
+img{
+    width: 133px;
+    height: 159px;
+}
+h5{
+  color: #576071 !important;
+}
+p{
+  color: #323A4B !important;
+  font-weight: 600 !important;
+font-family: 'Work Sans', sans-serif;
+  
+}
+.card{
+  box-shadow: 0px 0px 1px 1px rgba(228, 231, 236, 0.15) !important; 
+  border-radius: 6px !important; 
+  border: 1px solid  #E4E7EC !important;
+}
+.star-img{
+  height: 15px;
+  width: 74px;
+}
+.price{
+  color: #006D77 !important;
+font-size: 18px !important;
+font-family: 'Work Sans', sans-serif;
+font-weight: 600 !important;
+}
+button{
+  color: #006D77;
+font-size: 14px !important;
+background-color: #BEE1E6;
+height: 25px;
+border-radius: 6px;
+width: 67px;
+font-family: 'Work Sans', sans-serif;
+font-weight: 500 !important;
+}
